@@ -1,5 +1,6 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(184, 153, 153);
 }
 
 h1 {
@@ -9,3 +10,8 @@ h1 {
 .hot {
   color: #ff0000;
 }
+img {
+    border-radius: 50%;
+}
+
+
